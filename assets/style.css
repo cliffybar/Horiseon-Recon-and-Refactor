@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+
 /* HEADER START */
 
 header {
@@ -50,6 +51,7 @@ a {
 
 /* HEADER END */
 
+
 /* HERO START */
 
 .hero {
@@ -62,6 +64,7 @@ a {
 }
 
 /* HERO END */
+
 
 /* CONTENT START */
 
@@ -105,6 +108,7 @@ p {
 
 /* CONTENT END */
 
+
 /* BENEFITS START */
 
 .benefits {
@@ -144,6 +148,8 @@ p {
     max-width: 150px;
 }
 
+/* BENEFITS END */
+
 
 /* FOOTER START */
 
@@ -157,3 +163,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* FOOTER END */
