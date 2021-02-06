@@ -1,6 +1,6 @@
 # Horiseon Recon and Refactor
 
-<img src=".images/front-page.jpg" alt="website front page" />
+![Webpage front page](/assets/images/front-page.jpg)
 
 ## Description
 
